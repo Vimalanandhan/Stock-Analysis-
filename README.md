@@ -1,5 +1,3 @@
-Here’s a `README.md` file for your project that includes an overview, setup instructions, and details about the libraries used:
-
 ```markdown
 # Data Visualization of Stock Price Increases for Major Tech Companies
 
